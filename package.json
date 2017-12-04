@@ -1,0 +1,11 @@
+{
+  "name": "es6-symbol-shim",
+  "version": "0.0.1",
+  "description": "Package for bundling our required Symbol polyfills for use with RequireJS",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^2.5.1",
+    "webmake": "^0.3.43"
+  },
+  "devDependencies": {}
+}
